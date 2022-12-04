@@ -4,7 +4,7 @@ HeadFirstDesignPatterns
 
 ### 목차 
 
-1. 전략 패턴
+1. [전략 패턴](https://github.com/somethingmore/DesignPatternStudy_01/blob/master/src/main/java/strategy_pattern/README.md)
 2. 옵저버 패턴
 3. 데코레이터 패턴
 4. 팩토리 패턴
